@@ -4,6 +4,4 @@ if(empty($_GET['page'])){
 	die();
 }
 
-
-
 ?>
